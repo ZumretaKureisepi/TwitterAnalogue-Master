@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAnalogue.WebAPI", "TwitterAnalogue.WebAPI\TwitterAnalogue.WebAPI.csproj", "{01A9B62A-CA8F-4757-B85A-72D735A8038B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterAnalogue.Model", "TwitterAnalogue.Model\TwitterAnalogue.Model.csproj", "{EEB14306-4B08-4B48-B1A1-472D1F2E2107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A9B62A-CA8F-4757-B85A-72D735A8038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A9B62A-CA8F-4757-B85A-72D735A8038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A9B62A-CA8F-4757-B85A-72D735A8038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A9B62A-CA8F-4757-B85A-72D735A8038B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB14306-4B08-4B48-B1A1-472D1F2E2107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB14306-4B08-4B48-B1A1-472D1F2E2107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB14306-4B08-4B48-B1A1-472D1F2E2107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB14306-4B08-4B48-B1A1-472D1F2E2107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E862BFC5-E084-46CD-9F79-639F5872E023}
+	EndGlobalSection
+EndGlobal
